@@ -1,0 +1,27 @@
+{
+  "name": "Mirror-iOS",
+  "version": "1.0.0",
+  "summary": "A short description of Mirror-iOS.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/terry lee/Mirror-iOS",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "terry lee": "terry.lee@scmp.com"
+  },
+  "source": {
+    "git": "https://github.com/terry lee/Mirror-iOS.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Mirror-iOS/Classes/**/*",
+  "dependencies": {
+    "Alamofire": [
+      "~> 5.3.0"
+    ]
+  }
+}
