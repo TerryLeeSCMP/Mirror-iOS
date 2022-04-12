@@ -1,0 +1,23 @@
+PODS:
+  - Alamofire (5.5.0)
+  - Mirror-iOS (1.0.1):
+    - Alamofire (~> 5.5.0)
+
+DEPENDENCIES:
+  - Mirror-iOS (from `../`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+
+EXTERNAL SOURCES:
+  Mirror-iOS:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  Mirror-iOS: 92fc26d0c26e037d1877bdfb80a45f073bffa44a
+
+PODFILE CHECKSUM: 77b0dceee7cf5a1ac1b461da63130b4c6be5db3d
+
+COCOAPODS: 1.10.2

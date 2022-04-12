@@ -7,12 +7,17 @@
 //
 
 import UIKit
+import Mirror_iOS
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+        
+        let test = TestCode()
+        test.printSomething()
     }
 
     override func didReceiveMemoryWarning() {
